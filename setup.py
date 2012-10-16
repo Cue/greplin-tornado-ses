@@ -27,7 +27,7 @@ setup(name='greplin-tornado-ses',
       license='Apache',
       author='Greplin, Inc.',
       author_email='opensource@greplin.com',
-      url='http://www.github.com/Greplin/greplin-tornado-ses',
+      url='https://www.github.com/Cue/greplin-tornado-ses',
       package_dir = {'':'src'},
       packages = [
         'greplin',
